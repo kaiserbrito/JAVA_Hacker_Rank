@@ -7,7 +7,7 @@ Topics:
 1 - Introducion (not uploaded);
 2 - Strings (not uploaded);
 3 - BigNumber (not uploaded);
-4 - Data Structures;
+4 - Data Structures - SOLVED;
 5 - OOP (not uploaded);
 6 - Excpetion Handling (not uploaded);
 7 - Advanced (not uploaded).
