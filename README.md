@@ -4,7 +4,7 @@ Resolution of the JAVA's test at hackerrank.com
 
 Topics:
 
-1 - Introducion (not uploaded);
+1 - Introducion - SOLVED;
 2 - Strings (not uploaded);
 3 - BigNumber (not uploaded);
 4 - Data Structures - SOLVED;
