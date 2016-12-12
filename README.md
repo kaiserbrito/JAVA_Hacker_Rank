@@ -10,4 +10,4 @@ Topics:
 4 - Data Structures - SOLVED;
 5 - OOP - SOLVED;
 6 - Excpetion Handling - SOLVED;
-7 - Advanced (not uploaded).
+7 - Advanced- SOLVED.
